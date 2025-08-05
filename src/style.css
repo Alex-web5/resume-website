@@ -13,6 +13,7 @@
   --font-family: "Inter", sans-serif;
 }
 
+
 @layer{
   .section-container {
     @apply max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-20 py-20;
